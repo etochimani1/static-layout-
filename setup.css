@@ -1,0 +1,50 @@
+.wrapper {
+    margin: 5px;
+}
+.div-one {
+   text-align: left; 
+   border-color: grey;
+   border-radius: 5px;
+   margin-left: 5px;
+}
+.div-two{
+    text-align: center;
+    border: black;
+}
+.div-99{
+    image-rendering: crisp-edges;
+    text-align: center;
+}
+.div-three{
+    text-align: right;
+    position: unset;
+    top: 10px;
+   bottom: 400px;
+   margin: 5px;
+   margin-top: 10px;
+   max-height: 10px;
+}
+.div-four{
+    text-align: right;
+    top: 10px;
+    margin: 16px;
+    border-right: unset;
+    align-content: center;
+    text-align: left;
+}
+ 
+.div-five{
+    text-align: right;
+}
+.div-six{
+    text-align: right;
+}
+.div-seven{
+    text-align: right;
+}
+.div-eight{
+    text-align: center;
+}
+.div-nine{
+    text-align: center;
+}
